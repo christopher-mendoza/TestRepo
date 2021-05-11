@@ -1,1 +1,2 @@
 This is a test text file in my test repository.
+We add more text to the test text file.
